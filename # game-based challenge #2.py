@@ -244,7 +244,7 @@ def kaart_opdracht():
     print_slow("3. Een rots met een cirkel.", 2)
     print_slow("Volg de symbolen in de juiste volgorde om de verborgen route te vinden.", 2)
     
-   #fakka
+   #hallo dit is een test
     juiste_volgorde = ['1', '2', '3']
     speler_volgorde = []
     
